@@ -29,7 +29,7 @@ function checkTwitchLiveStatus() {
 
 // Update age
 function updateAge() {
-    var birthDate = new Date('2007-11-15');
+    var birthDate = new Date('2007-04-16');
     var today = new Date();
     var birthYear = birthDate.getFullYear();
     var birthMonth = birthDate.getMonth();
